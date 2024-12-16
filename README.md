@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **java, C++, C#, VUE, gsap**
 
-- 👨‍💻 All of my projects are available at [Kacper Gajowniczek - Portfolio](https://kacpergajowniczek.ct8.pl/)
+- 👨‍💻 All of my finished projects are available at [Kacper Gajowniczek - Portfolio](https://kacpergajowniczek.ct8.pl/)
 
-- 🎯 Sharpening my **PHP, CSS skills.**
+- 🎯 Trying to master my **PHP, CSS skills.**
 
 - 📫 How to reach me **kacper.gajowniczek02@gmail.com**
 
-- 📄 Know about my experiences [Kacper Gajowniczek - Portfolio](https://kacpergajowniczek.ct8.pl/)
+- 📄 Get to know about my qualifications [Kacper Gajowniczek - Portfolio](https://kacpergajowniczek.ct8.pl/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
